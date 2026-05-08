@@ -1,7 +1,7 @@
 # GCP Vertex AI TPM 할당량 소모 방식 검증
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cjk0604/tpm-calculation/blob/main/tpm_quota_verification_handson.ipynb)
-[![Open In Colab Enterprise](https://img.shields.io/badge/Colab%20Enterprise-Open-blue?logo=google-colab)](https://console.cloud.google.com/vertex-ai/colab/import/github/cjk0604/tpm-calculation/blob/main/tpm_quota_verification_handson.ipynb)
+[![Open In Colab Enterprise](https://img.shields.io/badge/Colab_Enterprise-Open-blue?logo=google-cloud)](https://console.cloud.google.com/vertex-ai/colab/import/https:%2F%2Fraw.githubusercontent.com%2Fcjk0604%2Ftpm-calculation%2Fmain%2Ftpm_quota_verification_handson.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View%20Notebook-181717?logo=github)](https://github.com/cjk0604/tpm-calculation/blob/main/tpm_quota_verification_handson.ipynb)
 
 GCP Vertex AI 환경에서 TPM(Tokens Per Minute) 할당량이 실제로 어떻게 차감되는지 검증하는 핸즈온 테스트입니다.
